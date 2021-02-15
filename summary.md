@@ -16,6 +16,18 @@
 
 Objective = sum of all Key Results, if all key results achieved then objective should be complete
 
+## OKR philosophy
+
+1. Focus and commit to priorities: OKRs focus teams and companies on work that's important and reject superfluous work. This forces leaders to make hard choices on priorities. Removes any lingering confusion on what people are supposed to be working on.
+2. Align and connect: OKRs should be transparent throughout the org. Individuals should link their OKRs up to team and teams should link up to company and sideways to cross-dependencies with other teams.
+3. Track for accountability: OKRs are data driven and enforce periodic check-ins, objective grading and continuous reassessment. The most important part is that any key result that is in danger triggers action to put it on track or be revised/replaced, if necessary.
+4. Stretch for amazing: By focusing, align and tracking, OKRs motivated people and companies to overperform.
+
+## OKR applications
+
+1. CFRs: Conversation, Feedback and Recognition add up to *"continuous performance management"*, a replacement for annual performance reviews.
+2. Continuous Improvement: Structured goal setting and continuous performance management help organizations on the long road to operational excellence by improving one day at a time.
+3. Importance of culture: OKRs and CFRs aim to define and build a positive culture by aligning teams towards common objectives, creating transparency and accountability, and, structured goal setting.
 
 
 ## Quotes
