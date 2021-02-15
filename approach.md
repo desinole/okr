@@ -119,3 +119,22 @@ The first 4 are also called the 4 superpowers in the book.
 - For collective objectives, assign key results to individuals
 - Promote opportunities for interpersonal/volunteer support for additional help on actions
 - Address issues around accountability and trust before rolling out OKRs
+
+## Sample OKR cycle
+
+Settings OKRs at company, team and individual levels
+
+1. 4-6 weeks before quarter: Leadership brainstorms top-line OKRs for company.
+2. 2 weeks before quarter: Communicate output of step 1 company-wide
+3. Start of quarter: Teams develop own OKRs to align with top-line OKRs
+4. 1 week after start of quarter: Individual employees share their own OKRs in 1-on-1 settings with manager to make sure they're aligned at the team and company level.
+5. Throughout quarter: Individual employees measure and share progress with regular check-ins with managers. This is a time to assess the progress and recalibrate, if needed.
+6. Before end of quarter: Individual employees score their OKRs, self assess and reflect on accomplishment.
+
+## Sample OKRs
+
+**Objective** Improve hosting service SLA to 4 nines
+**Key Result 1** Launch v4.1 hosting service by March 30 with updates for redundancy and stability
+**Key Result 2** 100ms response time for hosting platform
+**Key Result 3** 99.99% uptime
+**Key Result 4** Add regional redundancy
