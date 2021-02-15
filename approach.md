@@ -59,14 +59,63 @@ Include all teams involved in project. For instance, if Main website development
 9. Ambiguous metrics. For instance, *"support 1 million users"*. Is it 1 million users concurrent or per day or per week?
 10. Using same OKRs for entire large groups. Instead use, high level ones for entire group but more details ones for sub-groups. Cross-team OKRs should have KRs in each sub-team.
 
-|  |  |
-| ----------- | ----------- |
-|  |  |
+## OKR Philosophies
 
-|  |  |
-| ----------- | ----------- |
-|  |  |
+The first 4 are also called the 4 superpowers in the book.
 
-|  |  |
-| ----------- | ----------- |
-|  |  |
+### 1. Focus and Commit to Priorities
+
+- Run short-term (usually committed) and long-term (usually aspirational) OKRs in parallel.
+- Rollout should start with upper management to make them accountable too. In fact, without organizational buy-in and management conviction, OKRs are bound to fail
+- OKRs require a *shepherd* to focus individuals on priorities.
+- Commit 3 to 5 OKRs per cycle to prevent dilution
+- Departmental objectives requiring support from outside should become company OKRs
+- Each objective should be limited to max of 5 measurable, unambiguous, time-bound key results
+- If one key result should be stretched beyond one cycle, it should go into an objectives that has similar cycles
+
+### 2. Align and Connect for Teamwork
+
+- Everyone from CEO down should make their OKRs transparent. Employees should relate OKRs up to company priorities
+- Messaging around priorities requires constant repetition
+- Even if objectives are driven from the top, it's important to allow flexibility on key results from frontline contributor. *Innovation dwells less at a company's center than it's edges*
+- Healthy mix of top-down and bottom-up OKRs
+- Cross-team priorities requires horizontally shared OKRs. This should be explicit and transparent throughout the org
+- When OKRs are modified or dropped, every stakeholder should be informed
+
+### 3. Track for Accountability
+
+- Continuous assessment and objective grading starting at the top. Important for leaders to take risks, sometimes fail and admit to failures publicly.
+- Focus on measurement and less on extrinsic rewards for achievement
+- OKR shepherd should be involved in regular check-ins
+- Prescribed in the book: weekly 1-on-1 meetings with contributor and managers, monthly departmental meetings
+- OKRs must evolve as necessary, even mid-cycle. Counterproductive to hold on to outdated or unrealistic goals
+- Important to self assess and celebrate victories at end of each cycle
+- Use public, collaborative, real-time goal setting systems (none recommended by book)
+
+### 4. Stretch for amazing
+
+- BHAG == Big Hairy Audacious Goal aka aspirational
+- Important to separate committed goals and BHAGs
+- Risks and failures in short cycles should be encouraged for quick feedback
+- All goals should stretch even if some risk not being met
+- Replace incremental OKRs with exponential ones. 10x (now toxic) comes from this
+- Stretch goals could be rolled to next cycle, on a reasonable basis
+
+### 5. Continuous Performance Management
+
+- Move from annual performance management to continuous performance management. This is necessary to monitor and address issues throughout the cycle
+- Tying goal attainment to bonus checks will cause sandbagging and risk-averse behavior
+- Important for performance evaluations to be transparent and catering to an individuals strengths and ambition
+- Motivate intrinsically with purposeful work and opportunities for growth
+- Implement ongoing CFRs (conversations, feedback and recognition) along with structured goal setting
+- Contributor should set the agenda for performance conversations. Manager should learn and coach
+- Performance feedback should be unconstrained by org chart. Leverage anonymous surveys for real-time feedback
+- Provide opportunities for peer feedback and peer recognition
+
+### 6. Importance of Culture
+
+- Align top-line OKRs with org values
+- Values should be conveyed by deeds, words are cheap
+- For collective objectives, assign key results to individuals
+- Promote opportunities for interpersonal/volunteer support for additional help on actions
+- Address issues around accountability and trust before rolling out OKRs
