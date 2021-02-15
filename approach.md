@@ -134,7 +134,11 @@ Settings OKRs at company, team and individual levels
 ## Sample OKRs
 
 **Objective** Improve hosting service SLA to 4 nines
+
 **Key Result 1** Launch v4.1 hosting service by March 30 with updates for redundancy and stability
+
 **Key Result 2** 100ms response time for hosting platform
+
 **Key Result 3** 99.99% uptime
+
 **Key Result 4** Add regional redundancy
