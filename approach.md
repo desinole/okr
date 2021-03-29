@@ -2,6 +2,7 @@
 
 - [Back to Main](./README.md)
 - [Jump to Summary](./summary.md)
+- [Jump to Radical Focus](./radicalfocus.md)
 
 The approach in this book has been based off Google's OKR Playbook and probably only works for Google but there are some useful takeaways.
 

@@ -2,6 +2,7 @@
 
 - [Back to Main](./README.md)
 - [Jump to Approach](./approach.md)
+- [Radical Focus](./radicalfocus.md)
 
 ## OKRs == Objectives + Key Results
 
